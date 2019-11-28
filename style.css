@@ -6,6 +6,7 @@
 }
 .site-main {
   background: #ffc;
+  align-content;
 }
 .hentry {
   border: 2px dashed black;
@@ -15,6 +16,11 @@
 footer {
  background: rgba( 0, 0, 255, 0.15 ); 
 }
+
+
+
+
+
 @media(){
 
 
